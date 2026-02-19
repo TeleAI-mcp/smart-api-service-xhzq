@@ -1,2 +1,3 @@
-# smart-api-service-xhzq
-A REST API service for modern development workflows
+# Smart Api Service Xhzq
+
+A REST API service for modern development workflows.
